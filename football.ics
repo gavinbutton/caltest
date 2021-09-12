@@ -5,18 +5,18 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20210912T121500Z
 DTEND:20210912T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:bf39ef7d-df7d-42a4-8813-32aa96bd9339@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:e1fd0347-c464-4145-a787-ce980534ec35@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Gotherington Juniors Youth U15 vs FC Lakeside Youth U15 Reds <h
- ttps://fulltime.thefa.com/displayFixture.html?id=21789068> \nKick off 2021
- 0912T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.9233070000
- ,-2.0909230000> \n
+ ttps://fulltime.thefa.com/displayFixture.html?id=21789068> \nKick off 14:0
+ 0 \nGoogle Maps Link <https://maps.google.com/?ll=51.9233070000,-2.0909230
+ 000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:SWINDON VILLAGE #2 - 1 BOLEYN COTTAGES CHURCH ROAD, SWINDON VILLAG
  E, CHELTENHAM, Gloucestershire GL51 9QP
 SEQUENCE:0
@@ -28,18 +28,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210919T121500Z
 DTEND:20210919T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:69838148-86cb-4970-837e-aff102786c9b@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:14c493c7-9b9e-49e7-b70e-c4519d03501b@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Hardwicke Rangers Youth U15 Reds 
- <https://fulltime.thefa.com/displayFixture.html?id=21789014> \nKick off 20
- 210919T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.88389300
- 00,-2.1277730000> \n
+ <https://fulltime.thefa.com/displayFixture.html?id=21789014> \nKick off 14
+ :00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.12777
+ 30000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #2 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -51,18 +51,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210926T121500Z
 DTEND:20210926T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:415e9633-5b4c-4223-9885-3782d8566769@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:13ea721c-9863-438d-8931-ddd83b078c55@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Newtown Sports Juniors U15 <https
- ://fulltime.thefa.com/displayFixture.html?id=21789025> \nKick off 20210926
- T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.
- 1277730000> \n
+ ://fulltime.thefa.com/displayFixture.html?id=21789025> \nKick off 14:00 \n
+ Google Maps Link <https://maps.google.com/?ll=51.8838930000,-2.1277730000>
+  \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #1 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -73,18 +73,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211010T121500Z
 DTEND:20211010T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:3acb8475-e37b-40cf-9224-d2c906748f58@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:df067b95-0482-4243-817b-9e4a4a80d339@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Hardwicke Rangers Youth U15 Reds vs FC Lakeside Youth U15 Reds 
- <https://fulltime.thefa.com/displayFixture.html?id=21766126> \nKick off 20
- 211010T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.81311600
- 00,-2.2854270000> \n
+ <https://fulltime.thefa.com/displayFixture.html?id=21766126> \nKick off 14
+ :00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8131160000,-2.28542
+ 70000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:ROB DAWE MEMORIAL CLOSE #2 - FOOTBALL FIELD GREEN LANE, GREEN LANE
  , HARDWICKE, GLOUCESTER, Gloucestershire GL2 4QA
 SEQUENCE:0
@@ -96,18 +96,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211017T121500Z
 DTEND:20211017T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:4b1fb333-1c98-4d89-90a1-717b1404a07c@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:a5218752-8cdc-4de7-a8f4-1e2c224c61c3@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Gotherington Juniors Youth U15 <h
- ttps://fulltime.thefa.com/displayFixture.html?id=21789004> \nKick off 2021
- 1017T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.9025430000
- ,-2.1083750000> \n
+ ttps://fulltime.thefa.com/displayFixture.html?id=21789004> \nKick off 14:0
+ 0 \nGoogle Maps Link <https://maps.google.com/?ll=51.9025430000,-2.1083750
+ 000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:KING GEORGE V PLAYING FIELD (CHELTENHAM) #3 - KING GEORGE V SPORTS
   PAVILION BROOKLYN ROAD, CHELTENHAM, Gloucestershire GL51 8DT
 SEQUENCE:0
@@ -119,18 +119,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211024T121500Z
 DTEND:20211024T140000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:458bef83-4777-4ed2-9ca1-1b0243a65cff@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:95e127e5-4483-41d1-9fed-df39089aa3c4@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Churchdown Panthers Youth U15 vs FC Lakeside Youth U15 Reds <ht
- tps://fulltime.thefa.com/displayFixture.html?id=21789080> \nKick off 20211
- 024T130000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8798580000,
- -2.1543630000> \n
+ tps://fulltime.thefa.com/displayFixture.html?id=21789080> \nKick off 14:00
+  \nGoogle Maps Link <https://maps.google.com/?ll=51.8798580000,-2.15436300
+ 00> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:CHOSEN HILL FORMER PUPILS RFC (Far Pitch) - BROOKFIELD ROAD, BROOK
  FIELD ROAD, CHURCHDOWN, GLOUCESTER, Gloucestershire GL3 2PJ
 SEQUENCE:0
@@ -142,18 +142,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211031T131500Z
 DTEND:20211031T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:07c6e6e2-58dd-4733-88f2-1a7ca8d10221@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:0981998f-2469-4782-a403-ca9af93521a1@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Southside Star Youth U15 Tigers vs FC Lakeside Youth U15 Reds <
- https://fulltime.thefa.com/displayFixture.html?id=21789105> \nKick off 202
- 11031T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.886749000
- 0,-2.1008600000> \n
+ https://fulltime.thefa.com/displayFixture.html?id=21789105> \nKick off 14:
+ 00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8867490000,-2.100860
+ 0000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:BOURNSIDE SPORTS CENTRE #2 (11 v 11) - WARDEN HILL ROAD, CHELTENHA
  M, Gloucestershire GL51 3EF
 SEQUENCE:0
@@ -165,18 +165,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211114T131500Z
 DTEND:20211114T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:a682399c-bcd6-48ba-be9b-f5942eddee73@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:1d9087fa-fdc6-472a-92fd-7b837593405d@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs West Worcester Youth U15 Lions CY
  L <https://fulltime.thefa.com/displayFixture.html?id=21789129> \nKick off 
- 20211114T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.883893
- 0000,-2.1277730000> \n
+ 14:00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.127
+ 7730000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #2 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -188,18 +188,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211121T131500Z
 DTEND:20211121T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:7624099f-4dab-4403-b8b2-77c0589e8d04@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:e4c22d3d-059d-422c-996b-d64b986e818a@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Hardwicke Rangers Youth U15 Reds vs FC Lakeside Youth U15 Reds 
- <https://fulltime.thefa.com/displayFixture.html?id=21789148> \nKick off 20
- 211121T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.81311600
- 00,-2.2854270000> \n
+ <https://fulltime.thefa.com/displayFixture.html?id=21789148> \nKick off 14
+ :00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8131160000,-2.28542
+ 70000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:ROB DAWE MEMORIAL CLOSE #2 - FOOTBALL FIELD GREEN LANE, GREEN LANE
  , HARDWICKE, GLOUCESTER, Gloucestershire GL2 4QA
 SEQUENCE:0
@@ -211,18 +211,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211128T131500Z
 DTEND:20211128T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:2829aca4-2a8a-445d-9e4d-c8c6f6335459@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:be102bc1-0ae8-42e9-9b64-867c5c94e2f2@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Leckhampton Rovers Youth U15 Pant
  hers <https://fulltime.thefa.com/displayFixture.html?id=21789162> \nKick o
- ff 20211128T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.883
- 8930000,-2.1277730000> \n
+ ff 14:00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.
+ 1277730000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #1 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -234,18 +234,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211205T131500Z
 DTEND:20211205T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:b028d652-e066-4926-afd5-3c7b5ac00127@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:0fe27eb6-a882-41f1-8ba1-34d2c7f38bb1@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Bishops Cleeve Colts Youth U15 United vs FC Lakeside Youth U15 
  Reds <https://fulltime.thefa.com/displayFixture.html?id=21789171> \nKick o
- ff 20211205T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.937
- 9690000,-2.0647560000> \n
+ ff 14:00 \nGoogle Maps Link <https://maps.google.com/?ll=51.9379690000,-2.
+ 0647560000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:BISHOPS CLEEVE SPORTS GROUND # 1 - Cheltenham Road, Bishops Cleeve
  , Cheltenham, Gloucestershire GL52 8LZ
 SEQUENCE:0
@@ -257,18 +257,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211212T131500Z
 DTEND:20211212T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:d95ad535-4f24-489c-bac2-364ecf174f42@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:f82d3b9e-e50f-403c-86b7-b9b72e3336e7@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Churchdown Panthers Youth U15 <ht
- tps://fulltime.thefa.com/displayFixture.html?id=21789192> \nKick off 20211
- 212T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,
- -2.1277730000> \n
+ tps://fulltime.thefa.com/displayFixture.html?id=21789192> \nKick off 14:00
+  \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.12777300
+ 00> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #1 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -280,18 +280,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20211219T131500Z
 DTEND:20211219T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:64b7fc8b-557e-48ba-9d91-86c4c169e097@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:2713bdde-8e13-4c3e-9cc6-409d0b20f8eb@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Lydney Town Youth U15 Blacks <htt
- ps://fulltime.thefa.com/displayFixture.html?id=21789209> \nKick off 202112
- 19T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-
- 2.1277730000> \n
+ ps://fulltime.thefa.com/displayFixture.html?id=21789209> \nKick off 14:00 
+ \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.127773000
+ 0> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #2 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -303,18 +303,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220102T131500Z
 DTEND:20220102T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:425fc313-e583-46c7-9669-f31e3a18fafc@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:e53ebf44-7c38-4abf-a664-a842545795a7@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Newtown Sports Juniors U15 vs FC Lakeside Youth U15 Reds <https
- ://fulltime.thefa.com/displayFixture.html?id=21789228> \nKick off 20220102
- T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=52.1146930000,-2.
- 3179530000> \n
+ ://fulltime.thefa.com/displayFixture.html?id=21789228> \nKick off 14:00 \n
+ Google Maps Link <https://maps.google.com/?ll=52.1146930000,-2.3179530000>
+  \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:SLING LANE PLAYING FIELDS - GREENHILL DRIVE, MALVERN, Worcestershi
  re WR14 2BW
 SEQUENCE:0
@@ -325,18 +325,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220116T131500Z
 DTEND:20220116T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:6077765b-7d2c-4a94-84d9-8bef8dddb448@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:aeeb5e8d-b3b1-463e-97ab-6a4e8d24bedd@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Southside Star Youth U15 Tigers <
- https://fulltime.thefa.com/displayFixture.html?id=21789256> \nKick off 202
- 20116T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.883893000
- 0,-2.1277730000> \n
+ https://fulltime.thefa.com/displayFixture.html?id=21789256> \nKick off 14:
+ 00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.127773
+ 0000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #2 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -348,18 +348,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220123T131500Z
 DTEND:20220123T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:885920a2-0b4e-42d5-a3ed-5ff4f4fed691@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:91199aff-6a02-4632-92d2-041fe1bd634c@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Bourton Rovers Youth U15 vs FC Lakeside Youth U15 Reds <https:/
- /fulltime.thefa.com/displayFixture.html?id=21789267> \nKick off 20220123T1
- 40000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8814080000,-1.75
- 00780000> \n
+ /fulltime.thefa.com/displayFixture.html?id=21789267> \nKick off 14:00 \nGo
+ ogle Maps Link <https://maps.google.com/?ll=51.8814080000,-1.7500780000> \
+ n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:BOURTON ROVERS FOOTBALL & SOCIAL CLUB #1 - Bourton Rovers Football
   Club Rissington Rd, Rissington Rd, Bourton on the Water,, Cheltenham, Glo
  ucestershire GL54 2EB
@@ -371,18 +371,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220206T131500Z
 DTEND:20220206T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:90ef22fe-0cf4-41e5-8754-87894142dc23@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:df9ff632-6dbe-405f-9036-376952f23559@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Bishops Cleeve Colts Youth U15 Un
  ited <https://fulltime.thefa.com/displayFixture.html?id=21789303> \nKick o
- ff 20220206T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.883
- 8930000,-2.1277730000> \n
+ ff 14:00 \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.
+ 1277730000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #1 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
@@ -394,18 +394,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220213T134500Z
 DTEND:20220213T153000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:b06e8177-9d26-46f3-be58-3579b26e61c2@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:f63ec3cf-c129-403d-8d4b-8d302421d65d@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:West Worcester Youth U15 Lions CYL vs FC Lakeside Youth U15 Red
  s <https://fulltime.thefa.com/displayFixture.html?id=21789324> \nKick off 
- 20220213T143000Z \nGoogle Maps Link <https://maps.google.com/?ll=52.189684
- 0000,-2.2993760000> \n
+ 14:30 \nGoogle Maps Link <https://maps.google.com/?ll=52.1896840000,-2.299
+ 3760000> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:WEST WORCESTER PARK (WWYFC) #1 - BROMYARD ROAD, COTHERIDGE, WORCES
  TER, Worcestershire WR6 5LP
 SEQUENCE:0
@@ -417,18 +417,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220220T131500Z
 DTEND:20220220T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:b683e429-a0e7-4047-8325-1ed4ad1def34@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:d41573bc-5aff-4443-b56e-21ac2c18e6fb@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:Lydney Town Youth U15 Blacks vs FC Lakeside Youth U15 Reds <htt
- ps://fulltime.thefa.com/displayFixture.html?id=21789330> \nKick off 202202
- 20T140000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.7193260000,-
- 2.5379760000> \n
+ ps://fulltime.thefa.com/displayFixture.html?id=21789330> \nKick off 14:00 
+ \nGoogle Maps Link <https://maps.google.com/?ll=51.7193260000,-2.537976000
+ 0> \n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:LYDNEY TOWN AFC YOUTH #2 (11 v 11) - Church Road, Lydney, Gloucest
  ershire GL15 5DZ
 SEQUENCE:0
@@ -440,18 +440,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220227T131500Z
 DTEND:20220227T150000Z
-DTSTAMP:20210912T101658Z
+DTSTAMP:20210912T102422Z
 ORGANIZER;CN=automation.netcrest@gmail.com:mailto:automation.netcrest@gmail
  .com
-UID:9ab8c407-6b97-4ff5-afee-2b5237f4bb20@netcrest.co.uk
-CREATED:20210912T101658Z
+UID:4c608204-b0a0-4b87-8a63-0205af09de18@netcrest.co.uk
+CREATED:20210912T102422Z
 DESCRIPTION:FC Lakeside Youth U15 Reds vs Bourton Rovers Youth U15 <https:/
- /fulltime.thefa.com/displayFixture.html?id=21789039> \nKick off 20220227T1
- 40000Z \nGoogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.12
- 77730000> \n
+ /fulltime.thefa.com/displayFixture.html?id=21789039> \nKick off 14:00 \nGo
+ ogle Maps Link <https://maps.google.com/?ll=51.8838930000,-2.1277730000> \
+ n
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=gavinbutton@gmail.com;X-NUM-GUESTS=0:mailto:gavinbutton@gmail.com
-LAST-MODIFIED:20210912T101658Z
+LAST-MODIFIED:20210912T102422Z
 LOCATION:FC LAKESIDE (COLD POOL LANE) #1 - COLD POOL LANE, COLD POOL LANE, 
  CHELTENHAM, Gloucestershire GL51 6LA
 SEQUENCE:0
